@@ -33,7 +33,7 @@ Open the `index.html` file in your web browser to start playing the game. Use th
 
 ## Development
 
-To enhance the project, you can modify the JavaScript (`script.js`), HTML (`index.html`), and CSS (`style.css`) files.
+To enhance the project, you can modify the JavaScript (`game.js`, `ghost.js`, `ghosts.js`, `pacman.js`), HTML (`index.html`), files.
 
 - Adding more levels with varying maze designs and difficulties.
 - Incorporating sound effects and background music for an immersive gaming experience.

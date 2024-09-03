@@ -1,9 +1,9 @@
 # Pacman
 
 Developed by Pirate-Emperor, Pacman is a web-based game implemented using JavaScript, HTML, and CSS. It is a replica of the classic Pacman game, where players navigate through a maze while avoiding ghosts and collecting dots.
-![screenshot1](screenshot1.png)
-![screenshot2](screenshot2.png)
-![screenshot3](screenshot3.png)
+![screenshot1](images/screen1.png)
+![screenshot2](images/screen2.png)
+![screenshot3](images/screen3.png)
 
 ## Features
 
